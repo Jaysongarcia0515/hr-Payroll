@@ -17,7 +17,10 @@
 </head>
 
 <body id="body1">
-    
+     <div class="text">
+            <h1>Symtech</h1>
+            <h3>Opportunity is in your hands</h3>
+    </div>
     <div class="container">
 
             <?php

@@ -67,7 +67,7 @@ img {
     margin-top: 6em;
 }
 
-.textbox input {
+.div-login input {
     width: 20em;
     height: 3.6em;
     border: none;
@@ -101,7 +101,7 @@ input:hover {
 
 .login_btn {
     width: 10em;
-    height: 2em;
+    height: 3em;
     border: none;
     padding: 3px;
     color: white;
